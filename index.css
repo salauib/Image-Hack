@@ -14,9 +14,10 @@
 
 div.gallery {
     margin: 5px;
-    border: 1px solid #ccc;
+    border: none;
     width: 180px;
     float: left;
+    box-shadow: 8px 10px 20px 0 rgb(46 61 73 / 15%);
 }
 
 div.gallery:hover {
