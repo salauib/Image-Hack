@@ -17,6 +17,7 @@ div.gallery {
     border: none;
     width: 180px;
     float: left;
+    border: 1px solid #fff;
     box-shadow: 8px 10px 20px 0 rgb(46 61 73 / 15%);
 }
 
